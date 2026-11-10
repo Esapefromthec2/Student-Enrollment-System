@@ -10,3 +10,5 @@ python -m pip install -r requirements.txt
 
 Start the app:
 python app.py
+
+Open the local address printed in the terminal.
